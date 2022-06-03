@@ -1,5 +1,5 @@
 import React from 'react';
-import navbar from './navbar.scss'
+import './navbar.scss'
 import SearchOutlinedIcon from '@mui/icons-material/SearchOutlined';
 import { LanguageOutlined } from '@mui/icons-material';
 import { DarkModeOutlined } from '@mui/icons-material';
